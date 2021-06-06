@@ -1,0 +1,19 @@
+.ListItem {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      text-align: center;
+      background-color: #deedf0;
+      border-radius: 15px;
+      padding: 1rem;
+      margin-top: 1rem;
+      text-decoration: none;
+    }
+
+    .entry {
+      display: inline-block;
+      padding: 1rem;
+      background-color: #f4c7ab;
+      color: black;
+      border-radius: 15px;
+    }
